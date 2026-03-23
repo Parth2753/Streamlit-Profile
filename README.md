@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌟 **Streamlit Profile – Parth Rohilla**
-### 👨‍💻 Developer • AIML Learner • Java & Python Enthusiast
+#  **Streamlit Profile – Parth Rohilla**
+###  Developer • AIML Learner • Java & Python Enthusiast
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -11,12 +11,12 @@
 
 ---
 
-# 👨‍💻 **CODER: PARTH ROHILLA**
+#  **CODER: PARTH ROHILLA**
 A passionate self-taught developer exploring **AIML, Java, Python, and Frameworks**, and building clean, functional, and modern projects.
 
 ---
 
-## 🚀 **Overview**
+##  **Overview**
 This is my personal **Streamlit Portfolio Web App** where I showcase:
 - My skills  
 - GitHub projects  
@@ -27,16 +27,16 @@ It is simple, fast, minimal and easy to deploy.
 
 ---
 
-## 🧩 **Features**
+##  **Features**
 
-- 🎨 Modern & clean UI  
-- 📘 About Me section  
-- 🛠 Skills with categories  
-- 📂 GitHub Project highlights  
-- 📨 Contact information  
-- ⚡ Fast & responsive  
+-  Modern & clean UI  
+-  About Me section  
+-  Skills with categories  
+-  GitHub Project highlights  
+-  Contact information  
+-  Fast & responsive  
 
-## ▶️ **Run This Project Locally**
+##  **Run This Project Locally**
 streamlit run portfolio.py
 
 
